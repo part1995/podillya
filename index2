@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="robots" content="noindex,nofollow" />
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<title>Проведення піших природничо-краєзнавчих екскурсій по екологічно-пізнавальних туристичних маршрутах НПП "Північне Поділля"</title>
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/effect1.css" />
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+	<body class="demo-1">
+		<div id="ip-container" class="ip-container">
+			<header class="ip-header">
+				<h1 class="ip-logo" style="background-color: f1f1f1;">
+						<img src="img/logo.png" width="350" height="270" alt="Лого НПП 'Північне Поділля'" style="margin:0 auto;display:block;">
+				</h1>
+				<div class="ip-loader">
+					<svg class="ip-inner" width="60px" height="60px" viewBox="0 0 80 80">
+						<path class="ip-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"/>
+						<path id="ip-loader-circle" class="ip-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"/>
+					</svg>
+				</div>
+			</header>
+			<div class="ip-main">
+				<center><p style="color: white;">
+					Послуга </br><hr/>
+					Проведення піших природничо-краєзнавчих екскурсій по екологічно-пізнавальних туристичних маршрутах НПП "Північне Поділля"<hr/></br>
+					<h2><span style="border: 1px solid white; border-radius: 28px; padding: 10px 20px 10px 20px;">300 грн.</span></h2>
+					</p>
+					</center>
+				<div class="browser clearfix" style="margin-top: -50px;">
+					<div><center><img src="https://raw.githubusercontent.com/part1995/podillya/530f1e490faf4d61e66ef4e64abe63da0b26153f/img/rekvizuty.svg" width="100%" height="100%"/></center></div>
+				</div>
+			</div>
+		</div>
+		<script src="js/classie.js"></script>
+		<script src="js/pathLoader.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
