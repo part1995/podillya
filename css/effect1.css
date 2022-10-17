@@ -93,7 +93,7 @@
 	width: 90%;
 }
 
-.ip-main h2 {
+.ip-main p {
 	margin: 0;
 	padding: 0.5em 0 1em;
 	color: #white;
@@ -239,7 +239,7 @@
 }
 
 /* Content animations */
-.loaded .ip-main h2,
+.loaded .ip-main p,
 .loaded .ip-main .browser,
 .loaded .ip-main .browser .box,
 .loaded .codrops-demos {
@@ -298,9 +298,9 @@
 
 @media screen and (max-width: 45em) {
 
-	.ip-main h2 {
+	.ip-main p {
 		font-size: 2.25em;
-		font-size: 4vw;
+		font-size: 10vw;
 	}
 
 	.box {
